@@ -698,8 +698,15 @@ footer span a:hover{
         padding: 0 23px;
     }
 
+    .home{
+        display: flex;
+        background-image: url("images/cover.jpg");
+        background-size: 220%;
+        background-position: center;
+    }
+
     .home .home-content .text-2{
-        font-size: 60px;
+        font-size: 50px;
         font-weight: 600;
         margin-left: -3px;
         color: rgba(0, 5, 78, 0.788);
